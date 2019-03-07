@@ -3,7 +3,7 @@ import Artifact from './Artifacts/Artifact_DEPRECATED';
 import Multipart from './OIPComponents/Multipart'
 
 
-const defaultOIPdURL = "https://snowflake.oip.fun/alexandria/v2";
+const defaultOIPdURL = "https://usul.3drm.io/alexandria/v2";
 class Index {
 	constructor(settings){
 		if (settings && settings.OIPdURL) {
@@ -289,7 +289,7 @@ class Index {
 	}
 
 	/**
-	 * Build and get the multiparts 
+	 * Build and get the multiparts
 	 * @param  {string} txid - The TXID of a valid oip-multipart
 	 * @return {Promise<Array.<Multipart>|Artifact>} Returns a Promise that will resolve to an Array of Multiparts, or a single Artifact if it is not Multiparts
 	 */

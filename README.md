@@ -1,7 +1,7 @@
 [![](https://travis-ci.org/oipwg/oip-index.svg?branch=master)](https://travis-ci.org/oipwg/oip-index)
 [![](https://img.shields.io/npm/v/oip-index.svg)](https://www.npmjs.com/package/oip-index)
 # OIP Index
-`oip-index` is a simple module to retreive Artifacts, Publishers, and other OIP Objects back from OIP.
+`oip-index` is a simple module to retrieve Artifacts, Publishers, and other OIP Objects back from OIP.
 
 ## Table of Contents
 * [Installation Instructions](https://github.com/oipwg/oip-index/#installation-instructions)

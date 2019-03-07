@@ -29,7 +29,7 @@ const hydrateFloDataTX = (floDataTXs) => {
 }
 	//ToDo: change to 'https' when ready
 const localhost = "http://localhost:1606"
-const defaultOIPdURL = "http://snowflake.oip.fun:1606";
+const defaultOIPdURL = "http://usul.3drm.io:1606";
 
 class OIPIndex {
 	/**
